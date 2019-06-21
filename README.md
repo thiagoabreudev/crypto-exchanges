@@ -11,7 +11,7 @@ npm install hub-crypto-exchanges --save
 
 ```
 const exchanges = require('hub-crypto-exchanges');
-mercadoBitcoin = new exchangesMercadoBitCoinApi(API_ID, API_SECRET);
+mercadoBitcoin = new exchanges.MercadoBitCoinApi(API_ID, API_SECRET);
 ```
 
 ### Méthodos: 
