@@ -1,0 +1,26 @@
+{
+  "name": "hub-crypto-exchanges",
+  "version": "1.0.0",
+  "description": "Hub com conexões para várias exchanges",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoabreudev/crypto-exchanges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoabreudev/crypto-exchanges/issues"
+  },
+  "homepage": "https://github.com/thiagoabreudev/crypto-exchanges#readme"
+}
