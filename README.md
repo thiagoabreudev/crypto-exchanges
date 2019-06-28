@@ -14,5 +14,5 @@ const exchanges = require('hub-crypto-exchanges');
 mercadoBitcoin = new exchanges.MercadoBitCoinApi(API_ID, API_SECRET);
 ```
 
-### Méthodos: 
-#### Os methodos são definidos com o mesmo nome da dos methodos de cada provider.
+### Métodos: 
+#### Os métodos são definidos com o mesmo nome da dos métodos de cada provider.
